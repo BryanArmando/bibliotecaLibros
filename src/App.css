@@ -24,15 +24,27 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.navbarstyle{
+  background-color: #181d27;
+    padding: 10px;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.linkstyle {
+  padding: 10px;
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+}
+.containerStyle{
+  width: 90%;
+    margin: 100px auto;
+}
+.bookcontainer {
+  display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
