@@ -4,7 +4,7 @@
 
 ## Biblioteca.
 
-<img src='public/selector.jpg'>
+<img src='public/biblioteca.jpg'>
 
 
 ## Built With:
